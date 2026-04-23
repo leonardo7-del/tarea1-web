@@ -1,0 +1,2 @@
+-- Database: bd_ventas_ds500
+-- Create database script
