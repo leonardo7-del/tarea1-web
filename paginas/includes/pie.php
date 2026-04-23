@@ -8,6 +8,6 @@
             </p>
         </div>
     </footer>
-    <script src="css/bootstrap/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/tarea1-web/css/bootstrap/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
