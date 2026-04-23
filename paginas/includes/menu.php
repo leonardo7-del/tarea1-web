@@ -17,12 +17,12 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="producto/">
+                        <a class="nav-link" href="/tarea1-web/producto/index.php">
                             <i class="fa-solid fa-box-open me-1"></i>Productos
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="marca/">
+                        <a class="nav-link" href="/tarea1-web/marca/index.php">
                             <i class="fa-solid fa-tags me-1"></i>Marcas
                         </a>
                     </li>
